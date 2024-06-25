@@ -7,3 +7,4 @@ df <-
   )
 
 readr::write_csv2(df[1,], "individu_reg.csv")
+readr::write_csv2(df[2,], "individu_reg2.csv")
